@@ -1,0 +1,42 @@
+﻿<?xml version="1.0"?>
+<Contest>
+  <Name>name</Name>
+  <Contestants>
+      <Contestant>
+         <ID>1</ID>
+         <name>Enmanuel Toribio</name>
+         <previous>1220</previous>
+         <position>3</position>
+      </Contestant>
+      <Contestant>
+         <ID>2</ID>
+         <name>Eduardo López</name>
+         <previous>1200</previous>
+         <position>4</position>
+      </Contestant>
+	<Contestant>
+         <ID>3</ID>
+         <name>Robert Ubiñas</name>
+         <previous>1200</previous>
+         <position>1</position>
+      </Contestant>
+	<Contestant>
+         <ID>4</ID>
+         <name>Luis Peña</name>
+         <previous>1200</previous>
+         <position>2</position>
+      </Contestant>
+	<Contestant>
+         <ID>5</ID>
+         <name>Aaron Coiscou</name>
+         <previous>1200</previous>
+         <position>5</position>
+      </Contestant>
+	<Contestant>
+         <ID>6</ID>
+         <name>Jean Carlos Sarmiento</name>
+         <previous>1200</previous>
+         <position>6</position>
+      </Contestant>
+  </Contestants>
+</Contest>

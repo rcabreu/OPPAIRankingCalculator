@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<Contest>
+  <Name>OPPAI del 2010</Name>
+  <Contestants>
+      <Contestant>
+         <ID>1</ID>
+         <name>Enmanuel Toribio</name>
+         <previous>1200</previous>
+         <position>1</position>
+      </Contestant>
+      <Contestant>
+         <ID>2</ID>
+         <name>Eduardo López</name>
+         <previous>1200</previous>
+         <position>2</position>
+      </Contestant>
+  </Contestants>
+</Contest>

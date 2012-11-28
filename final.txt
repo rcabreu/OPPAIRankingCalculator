@@ -1,0 +1,64 @@
+Name: Enmanuel Toribio
+		Previous Ranking: 1305
+		New Ranking: 1440
+
+Name: Eduardo López
+		Previous Ranking: 1260
+		New Ranking: 1095
+
+Name: Robert Ubiñas
+		Previous Ranking: 1350
+		New Ranking: 1425
+
+Name: Luis Peña
+		Previous Ranking: 1290
+		New Ranking: 1335
+
+Name: Aaron Coiscou
+		Previous Ranking: 1140
+		New Ranking: 1245
+
+Name: Jean Carlos Sarmiento
+		Previous Ranking: 990
+		New Ranking: 975
+
+Name: Carlos Toribio
+		Previous Ranking: 1350
+		New Ranking: 1545
+
+Name: Michael Gaillard
+		Previous Ranking: 1230
+		New Ranking: 1395
+
+Name: Karl Jahn
+		Previous Ranking: 1170
+		New Ranking: 1125
+
+Name: Tomás Veras
+		Previous Ranking: 1140
+		New Ranking: 945
+
+Name: Manuel Saleta
+		Previous Ranking: 1110
+		New Ranking: 975
+
+Name: Máximo Domínguez
+		Previous Ranking: 1200
+		New Ranking: 1260
+
+Name: Yamil Tactuk
+		Previous Ranking: 1200
+		New Ranking: 1170
+
+Name: Luis Ruiz
+		Previous Ranking: 1200
+		New Ranking: 1140
+
+Name: Michael Romano
+		Previous Ranking: 1200
+		New Ranking: 1020
+
+Name: Randy Pérez
+		Previous Ranking: 1200
+		New Ranking: 990
+
