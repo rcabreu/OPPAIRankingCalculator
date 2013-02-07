@@ -2,101 +2,147 @@
 <Contest>
   <Name>name</Name>
   <Contestants>
-      <Contestant>
-         <ID>1</ID>
-         <name>Enmanuel Toribio</name>
-         <previous>1270</previous>
-         <position>3</position>
-      </Contestant>
-      <Contestant>
-         <ID>2</ID>
-         <name>Eduardo López</name>
-         <previous>1240</previous>
-         <position>13</position>
-      </Contestant>
-	<Contestant>
-         <ID>3</ID>
-         <name>Robert Ubiñas</name>
-         <previous>1300</previous>
-         <position>5</position>
-      </Contestant>
-	<Contestant>
-         <ID>4</ID>
-         <name>Luis Peña</name>
-         <previous>1260</previous>
-         <position>6</position>
-      </Contestant>
-	<Contestant>
-         <ID>5</ID>
-         <name>Aaron Coiscou</name>
-         <previous>1160</previous>
-         <position>4</position>
-      </Contestant>
-	<Contestant>
-         <ID>6</ID>
-         <name>Jean Carlos Sarmiento</name>
-         <previous>1060</previous>
-         <position>8</position>
-      </Contestant>
-	<Contestant>
-         <ID>7</ID>
+    <Contestant>
+         <ID>21</ID>
          <name>Carlos Toribio</name>
-         <previous>1300</previous>
+         <previous>1340</previous>
          <position>1</position>
       </Contestant>
-	<Contestant>
-         <ID>8</ID>
+      <Contestant>
+         <ID>22</ID>
          <name>Michael Gaillard</name>
-         <previous>1220</previous>
+         <previous>1260</previous>
          <position>2</position>
       </Contestant>
-	<Contestant>
-         <ID>9</ID>
-         <name>Karl Jahn</name>
+        <Contestant>
+         <ID>3</ID>
+         <name>Enmanuel Toribio</name>
+         <previous>1400</previous>
+         <position>3</position>
+      </Contestant>
+         <Contestant>
+         <ID>18</ID>
+         <name>Aaron Coiscou</name>
          <previous>1180</previous>
-         <position>9</position>
+         <position>4</position>
       </Contestant>
-	<Contestant>
-         <ID>10</ID>
-         <name>Tomás Veras</name>
-         <previous>1160</previous>
-         <position>14</position>
+        <Contestant>
+         <ID>14</ID>
+         <name>Robert Ubinas</name>
+         <previous>1380</previous>
+         <position>5</position>
       </Contestant>
-	<Contestant>
-         <ID>10</ID>
-         <name>Manuel Saleta</name>
-         <previous>1140</previous>
-         <position>12</position>
+       <Contestant>
+         <ID>15</ID>
+         <name>Luis Pena</name>
+         <previous>1340</previous>
+         <position>6</position>
       </Contestant>
-	<Contestant>
-         <ID>11</ID>
+	   <Contestant>
+         <ID>28</ID>
          <name>Máximo Domínguez</name>
          <previous>1200</previous>
          <position>7</position>
       </Contestant>
-	<Contestant>
-         <ID>12</ID>
+       <Contestant>
+         <ID>20</ID>
+         <name>Jean Sarmiento</name>
+         <previous>980</previous>
+         <position>8</position>
+      </Contestant>
+      <Contestant>
+         <ID>23</ID>
+         <name>Karl Jahn</name>
+         <previous>1200</previous>
+         <position>9</position>
+      </Contestant>
+   <Contestant>
+         <ID>29</ID>
          <name>Yamil Tactuk</name>
          <previous>1200</previous>
          <position>10</position>
       </Contestant>
-	<Contestant>
-         <ID>13</ID>
+   
+
+
+      <Contestant>
+         <ID>30</ID>
          <name>Luis Ruiz</name>
          <previous>1200</previous>
          <position>11</position>
       </Contestant>
-	<Contestant>
-         <ID>14</ID>
-         <name>Michael Romano</name>
+      <Contestant>
+         <ID>33</ID>
+         <name>Juan Castillo</name>
+         <previous>1200</previous>
+         <position>12</position>
+      </Contestant>
+      <Contestant>
+         <ID>26</ID>
+         <name>Manuel Saleta</name>
+         <previous>1120</previous>
+         <position>13</position>
+      </Contestant>
+      <Contestant>
+         <ID>34</ID>
+         <name>Luis Miguel Collado</name>
+         <previous>1200</previous>
+         <position>14</position>
+      </Contestant>
+       <Contestant>
+         <ID>7</ID>
+         <name>Eduardo Lopez</name>
          <previous>1200</previous>
          <position>15</position>
       </Contestant>
-	<Contestant>
-         <ID>15</ID>
-         <name>Randy Pérez</name>
+      <Contestant>
+         <ID>35</ID>
+         <name>Renso Diaz</name>
          <previous>1200</previous>
          <position>16</position>
       </Contestant>
+   
+
+
+
+
+
+<Contestant>
+         <ID>36</ID>
+         <name>Jonathan Perez</name>
+         <previous>1200</previous>
+         <position>17</position>
+      </Contestant>
+        <Contestant>
+         <ID>25</ID>
+         <name>Tomas Veras</name>
+         <previous>1160</previous>
+         <position>18</position>
+      </Contestant>
+   <Contestant>
+         <ID>31</ID>
+         <name>Michael Romano</name>
+         <previous>1200</previous>
+         <position>19</position>
+      </Contestant>
+   <Contestant>
+         <ID>32</ID>
+         <name>Randy Perez</name>
+         <previous>1200</previous>
+         <position>20</position>
+      </Contestant>
+        <Contestant>
+         <ID>37</ID>
+         <name>Cesar Baez</name>
+         <previous>1200</previous>
+         <position>21</position>
+      </Contestant>
+        <Contestant>
+         <ID>38</ID>
+         <name>William Joseph</name>
+         <previous>1200</previous>
+         <position>22</position>
+      </Contestant>
+
   </Contestants>
 </Contest>

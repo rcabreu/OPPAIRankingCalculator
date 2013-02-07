@@ -2,41 +2,83 @@
 <Contest>
   <Name>name</Name>
   <Contestants>
-      <Contestant>
+       <Contestant>
          <ID>1</ID>
-         <name>Enmanuel Toribio</name>
-         <previous>1220</previous>
-         <position>3</position>
-      </Contestant>
-      <Contestant>
-         <ID>2</ID>
-         <name>Eduardo López</name>
-         <previous>1200</previous>
-         <position>4</position>
-      </Contestant>
-	<Contestant>
-         <ID>3</ID>
-         <name>Robert Ubiñas</name>
-         <previous>1200</previous>
+         <name>Sergio Galvis</name>
+         <previous>1320</previous>
          <position>1</position>
       </Contestant>
-	<Contestant>
-         <ID>4</ID>
-         <name>Luis Peña</name>
+       <Contestant>
+         <ID>14</ID>
+         <name>Robert Ubinas</name>
          <previous>1200</previous>
          <position>2</position>
       </Contestant>
-	<Contestant>
-         <ID>5</ID>
-         <name>Aaron Coiscou</name>
+       <Contestant>
+         <ID>15</ID>
+         <name>Luis Pena</name>
          <previous>1200</previous>
+         <position>3</position>
+      </Contestant>
+       <Contestant>
+         <ID>16</ID>
+         <name>Alexander Méndez</name>
+         <previous>1200</previous>
+         <position>4</position>
+      </Contestant>
+       <Contestant>
+         <ID>3</ID>
+         <name>Enmanuel Toribio</name>
+         <previous>1280</previous>
          <position>5</position>
       </Contestant>
-	<Contestant>
-         <ID>6</ID>
-         <name>Jean Carlos Sarmiento</name>
-         <previous>1200</previous>
+      <Contestant>
+         <ID>11</ID>
+         <name>Lizaldo Jimenez</name>
+         <previous>1160</previous>
          <position>6</position>
+      </Contestant>
+      <Contestant>
+         <ID>7</ID>
+         <name>Eduardo Lopez</name>
+         <previous>1200</previous>
+         <position>7</position>
+      </Contestant>
+      <Contestant>
+         <ID>17</ID>
+         <name>Alan Alvarez</name>
+         <previous>1200</previous>
+         <position>8</position>
+      </Contestant>
+      <Contestant>
+         <ID>18</ID>
+         <name>Aaron Coiscou</name>
+         <previous>1200</previous>
+         <position>9</position>
+      </Contestant>
+      <Contestant>
+         <ID>19</ID>
+         <name>Aluis Marte</name>
+         <previous>1200</previous>
+         <position>10</position>
+      </Contestant>
+      <Contestant>
+         <ID>4</ID>
+         <name>Herman Gonzalez</name>
+         <previous>1260</previous>
+         <position>11</position>
+      </Contestant>
+      <Contestant>
+         <ID>20</ID>
+         <name>Jean Sarmiento</name>
+         <previous>1200</previous>
+         <position>12</position>
+      </Contestant>
+       <Contestant>
+         <ID>6</ID>
+         <name>John De Leon</name>
+         <previous>1220</previous>
+         <position>13</position>
       </Contestant>
   </Contestants>
 </Contest>

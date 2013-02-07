@@ -4,15 +4,81 @@
   <Contestants>
       <Contestant>
          <ID>1</ID>
-         <name>Enmanuel Toribio</name>
+         <name>Sergio Galvis</name>
          <previous>1200</previous>
          <position>1</position>
       </Contestant>
       <Contestant>
          <ID>2</ID>
-         <name>Eduardo López</name>
+         <name>Victor Castellanos</name>
          <previous>1200</previous>
-         <position>2</position>
+         <position>1</position>
+      </Contestant>
+      <Contestant>
+         <ID>3</ID>
+         <name>Enmanuel Toribio</name>
+         <previous>1200</previous>
+         <position>3</position>
+      </Contestant>
+      <Contestant>
+         <ID>4</ID>
+         <name>Herman Gonzalez</name>
+         <previous>1200</previous>
+         <position>4</position>
+      </Contestant>
+      <Contestant>
+         <ID>5</ID>
+         <name>Bolivar Baez</name>
+         <previous>1200</previous>
+         <position>5</position>
+      </Contestant>
+      <Contestant>
+         <ID>6</ID>
+         <name>John De Leon</name>
+         <previous>1200</previous>
+         <position>6</position>
+      </Contestant>
+      <Contestant>
+         <ID>7</ID>
+         <name>Eduardo Lopez</name>
+         <previous>1200</previous>
+         <position>7</position>
+      </Contestant>
+      <Contestant>
+         <ID>8</ID>
+         <name>Ignacio Cano</name>
+         <previous>1200</previous>
+         <position>8</position>
+      </Contestant>
+     <Contestant>
+         <ID>9</ID>
+         <name>Manuel Gonzalez</name>
+         <previous>1200</previous>
+         <position>9</position>
+      </Contestant>
+      <Contestant>
+         <ID>10</ID>
+         <name>Carlos Adames</name>
+         <previous>1200</previous>
+         <position>9</position>
+      </Contestant>
+      <Contestant>
+         <ID>11</ID>
+         <name>Lizaldo Jimenez</name>
+         <previous>1200</previous>
+         <position>9</position>
+      </Contestant>
+      <Contestant>
+         <ID>12</ID>
+         <name>Emilio Font</name>
+         <previous>1200</previous>
+         <position>9</position>
+      </Contestant>
+      <Contestant>
+         <ID>13</ID>
+         <name>Alfredo Garcia</name>
+         <previous>1200</previous>
+         <position>9</position>
       </Contestant>
   </Contestants>
 </Contest>
