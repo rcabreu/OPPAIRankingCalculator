@@ -1,0 +1,65 @@
+Name: Sergio Galvis
+		Previous Ranking: 1200
+		New Ranking: 1320
+		Change: 120
+
+Name: Victor Castellanos
+		Previous Ranking: 1200
+		New Ranking: 1320
+		Change: 120
+
+Name: Enmanuel Toribio
+		Previous Ranking: 1200
+		New Ranking: 1280
+		Change: 80
+
+Name: Herman Gonzalez
+		Previous Ranking: 1200
+		New Ranking: 1260
+		Change: 60
+
+Name: Bolivar Baez
+		Previous Ranking: 1200
+		New Ranking: 1240
+		Change: 40
+
+Name: John De Leon
+		Previous Ranking: 1200
+		New Ranking: 1220
+		Change: 20
+
+Name: Eduardo Lopez
+		Previous Ranking: 1200
+		New Ranking: 1200
+		Change: 0
+
+Name: Ignacio Cano
+		Previous Ranking: 1200
+		New Ranking: 1180
+		Change: -20
+
+Name: Manuel Gonzalez
+		Previous Ranking: 1200
+		New Ranking: 1160
+		Change: -40
+
+Name: Carlos Adames
+		Previous Ranking: 1200
+		New Ranking: 1160
+		Change: -40
+
+Name: Lizaldo Jimenez
+		Previous Ranking: 1200
+		New Ranking: 1160
+		Change: -40
+
+Name: Emilio Font
+		Previous Ranking: 1200
+		New Ranking: 1160
+		Change: -40
+
+Name: Alfredo Garcia
+		Previous Ranking: 1200
+		New Ranking: 1160
+		Change: -40
+

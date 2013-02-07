@@ -1,0 +1,110 @@
+Name: Carlos Toribio
+		Previous Ranking: 1340
+		New Ranking: 1530
+		Change: 190
+
+Name: Michael Gaillard
+		Previous Ranking: 1260
+		New Ranking: 1430
+		Change: 170
+
+Name: Enmanuel Toribio
+		Previous Ranking: 1400
+		New Ranking: 1550
+		Change: 150
+
+Name: Aaron Coiscou
+		Previous Ranking: 1180
+		New Ranking: 1310
+		Change: 130
+
+Name: Robert Ubinas
+		Previous Ranking: 1380
+		New Ranking: 1490
+		Change: 110
+
+Name: Luis Pena
+		Previous Ranking: 1340
+		New Ranking: 1430
+		Change: 90
+
+Name: Máximo Domínguez
+		Previous Ranking: 1200
+		New Ranking: 1300
+		Change: 100
+
+Name: Jean Sarmiento
+		Previous Ranking: 980
+		New Ranking: 1030
+		Change: 50
+
+Name: Karl Jahn
+		Previous Ranking: 1200
+		New Ranking: 1260
+		Change: 60
+
+Name: Yamil Tactuk
+		Previous Ranking: 1200
+		New Ranking: 1240
+		Change: 40
+
+Name: Luis Ruiz
+		Previous Ranking: 1200
+		New Ranking: 1220
+		Change: 20
+
+Name: Juan Castillo
+		Previous Ranking: 1200
+		New Ranking: 1200
+		Change: 0
+
+Name: Manuel Saleta
+		Previous Ranking: 1120
+		New Ranking: 1070
+		Change: -50
+
+Name: Luis Miguel Collado
+		Previous Ranking: 1200
+		New Ranking: 1160
+		Change: -40
+
+Name: Eduardo Lopez
+		Previous Ranking: 1200
+		New Ranking: 1140
+		Change: -60
+
+Name: Renso Diaz
+		Previous Ranking: 1200
+		New Ranking: 1120
+		Change: -80
+
+Name: Jonathan Perez
+		Previous Ranking: 1200
+		New Ranking: 1100
+		Change: -100
+
+Name: Tomas Veras
+		Previous Ranking: 1160
+		New Ranking: 1010
+		Change: -150
+
+Name: Michael Romano
+		Previous Ranking: 1200
+		New Ranking: 1060
+		Change: -140
+
+Name: Randy Perez
+		Previous Ranking: 1200
+		New Ranking: 1040
+		Change: -160
+
+Name: Cesar Baez
+		Previous Ranking: 1200
+		New Ranking: 1020
+		Change: -180
+
+Name: William Joseph
+		Previous Ranking: 1200
+		New Ranking: 1000
+		Change: -200
+

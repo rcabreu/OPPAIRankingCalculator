@@ -1,0 +1,65 @@
+Name: Sergio Galvis
+		Previous Ranking: 1320
+		New Ranking: 1420
+		Change: 100
+
+Name: Robert Ubinas
+		Previous Ranking: 1200
+		New Ranking: 1300
+		Change: 100
+
+Name: Luis Pena
+		Previous Ranking: 1200
+		New Ranking: 1280
+		Change: 80
+
+Name: Alexander Méndez
+		Previous Ranking: 1200
+		New Ranking: 1260
+		Change: 60
+
+Name: Enmanuel Toribio
+		Previous Ranking: 1280
+		New Ranking: 1300
+		Change: 20
+
+Name: Lizaldo Jimenez
+		Previous Ranking: 1160
+		New Ranking: 1160
+		Change: 0
+
+Name: Eduardo Lopez
+		Previous Ranking: 1200
+		New Ranking: 1200
+		Change: 0
+
+Name: Alan Alvarez
+		Previous Ranking: 1200
+		New Ranking: 1180
+		Change: -20
+
+Name: Aaron Coiscou
+		Previous Ranking: 1200
+		New Ranking: 1160
+		Change: -40
+
+Name: Aluis Marte
+		Previous Ranking: 1200
+		New Ranking: 1140
+		Change: -60
+
+Name: Herman Gonzalez
+		Previous Ranking: 1260
+		New Ranking: 1160
+		Change: -100
+
+Name: Jean Sarmiento
+		Previous Ranking: 1200
+		New Ranking: 1100
+		Change: -100
+
+Name: John De Leon
+		Previous Ranking: 1220
+		New Ranking: 1080
+		Change: -140
+

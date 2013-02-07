@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<Contest>
+  <Name>name</Name>
+  <Contestants>
+  	<Contestant>
+         <ID>21</ID>
+         <name>Carlos Toribio</name>
+         <previous>1530</previous>
+         <position>1</position>
+      </Contestant>
+      <Contestant>
+         <ID>22</ID>
+         <name>Michael Gaillard</name>
+         <previous>1430</previous>
+         <position>2</position>
+      </Contestant>
+        <Contestant>
+         <ID>3</ID>
+         <name>Enmanuel Toribio</name>
+         <previous>1550</previous>
+         <position>3</position>
+      </Contestant>
+         <Contestant>
+         <ID>18</ID>
+         <name>Aaron Coiscou</name>
+         <previous>1310</previous>
+         <position>4</position>
+      </Contestant>
+      <Contestant>
+         <ID>1000</ID>
+         <name>Juan Castro(UPR-B)</name>
+         <previous>1200</previous>
+         <position>5</position>
+      </Contestant>
+      <Contestant>
+         <ID>18</ID>
+         <name>John Velez (UPR-B)</name>
+         <previous>1200</previous>
+         <position>6</position>
+      </Contestant>
+      <Contestant>
+         <ID>18</ID>
+         <name>Miguel (UPR-B)</name>
+         <previous>1200</previous>
+         <position>7</position>
+      </Contestant>
+      <Contestant>
+         <ID>26</ID>
+         <name>Manuel Saleta</name>
+         <previous>1070</previous>
+         <position>8</position>
+      </Contestant>
+      <Contestant>
+         <ID>26</ID>
+         <name>Julio (UPR-B)</name>
+         <previous>1200</previous>
+         <position>9</position>
+      </Contestant>
+      <Contestant>
+         <ID>26</ID>
+         <name>C64USER (UPR-B)</name>
+         <previous>1200</previous>
+         <position>10</position>
+      </Contestant>
+      <Contestant>
+         <ID>40</ID>
+         <name>Miguel Saiz</name>
+         <previous>1200</previous>
+         <position>11</position>
+      </Contestant>
+       <Contestant>
+         <ID>31</ID>
+         <name>Michael Romano</name>
+         <previous>1060</previous>
+         <position>12</position>
+      </Contestant>
+       <Contestant>
+         <ID>14</ID>
+         <name>Robert Ubinas</name>
+         <previous>1490</previous>
+         <position>13</position>
+      </Contestant>
+      <Contestant>
+         <ID>30</ID>
+         <name>Luis Ruiz</name>
+         <previous>1220</previous>
+         <position>14</position>
+      </Contestant>
+       <Contestant>
+         <ID>25</ID>
+         <name>Tomas Veras</name>
+         <previous>1010</previous>
+         <position>15</position>
+      </Contestant>
+       <Contestant>
+         <ID>41</ID>
+         <name>Diego Sánchez</name>
+         <previous>1200</previous>
+         <position>16</position>
+      </Contestant>
+       <Contestant>
+         <ID>42</ID>
+         <name>Yandri Puello</name>
+         <previous>1200</previous>
+         <position>17</position>
+      </Contestant>
+       <Contestant>
+         <ID>7</ID>
+         <name>Eduardo Lopez</name>
+         <previous>1140</previous>
+         <position>18</position>
+      </Contestant>
+       <Contestant>
+         <ID>37</ID>
+         <name>Cesar Baez</name>
+         <previous>1020</previous>
+         <position>19</position>
+      </Contestant>
+       <Contestant>
+         <ID>7</ID>
+         <name>Richard Garcia</name>
+         <previous>1200</previous>
+         <position>19</position>
+      </Contestant>
+  </Contestants>
+</Contest>

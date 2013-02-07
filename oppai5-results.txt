@@ -1,0 +1,100 @@
+Name: Carlos Toribio
+		Previous Ranking: 1530
+		New Ranking: 1700
+		Change: 170
+
+Name: Michael Gaillard
+		Previous Ranking: 1430
+		New Ranking: 1580
+		Change: 150
+
+Name: Enmanuel Toribio
+		Previous Ranking: 1550
+		New Ranking: 1680
+		Change: 130
+
+Name: Aaron Coiscou
+		Previous Ranking: 1310
+		New Ranking: 1420
+		Change: 110
+
+Name: Juan Castro(UPR-B)
+		Previous Ranking: 1200
+		New Ranking: 1320
+		Change: 120
+
+Name: John Velez (UPR-B)
+		Previous Ranking: 1200
+		New Ranking: 1300
+		Change: 100
+
+Name: Miguel (UPR-B)
+		Previous Ranking: 1200
+		New Ranking: 1280
+		Change: 80
+
+Name: Manuel Saleta
+		Previous Ranking: 1070
+		New Ranking: 1100
+		Change: 30
+
+Name: Julio (UPR-B)
+		Previous Ranking: 1200
+		New Ranking: 1240
+		Change: 40
+
+Name: C64USER (UPR-B)
+		Previous Ranking: 1200
+		New Ranking: 1220
+		Change: 20
+
+Name: Miguel Saiz
+		Previous Ranking: 1200
+		New Ranking: 1200
+		Change: 0
+
+Name: Michael Romano
+		Previous Ranking: 1060
+		New Ranking: 1010
+		Change: -50
+
+Name: Robert Ubinas
+		Previous Ranking: 1490
+		New Ranking: 1420
+		Change: -70
+
+Name: Luis Ruiz
+		Previous Ranking: 1220
+		New Ranking: 1130
+		Change: -90
+
+Name: Tomas Veras
+		Previous Ranking: 1010
+		New Ranking: 900
+		Change: -110
+
+Name: Diego Sánchez
+		Previous Ranking: 1200
+		New Ranking: 1100
+		Change: -100
+
+Name: Yandri Puello
+		Previous Ranking: 1200
+		New Ranking: 1080
+		Change: -120
+
+Name: Eduardo Lopez
+		Previous Ranking: 1140
+		New Ranking: 970
+		Change: -170
+
+Name: Cesar Baez
+		Previous Ranking: 1020
+		New Ranking: 830
+		Change: -190
+
+Name: Richard Garcia
+		Previous Ranking: 1200
+		New Ranking: 1040
+		Change: -160
+
