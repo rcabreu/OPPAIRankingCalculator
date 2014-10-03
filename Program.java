@@ -1,4 +1,6 @@
 import java.util.*;
+
+// Main program
 public class Program {
 	public static void main(String ... args) throws Exception {
 		Contest contest = XMLContestReader.parseContestFile(args[0]);
